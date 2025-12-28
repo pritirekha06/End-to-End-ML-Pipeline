@@ -11,7 +11,7 @@ pip install -r requirements.txt
 
 ## Result
 
--Cleaned and preprocessed dataset
--Trained machine learning model
--Model evaluation using standard metrics
--Reproducible end-to-end ML workflow
+- Cleaned and preprocessed dataset
+- Trained machine learning model
+- Model evaluation using standard metrics
+- Reproducible end-to-end ML workflow
