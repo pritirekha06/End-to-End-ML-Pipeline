@@ -1,4 +1,4 @@
-# End-to-End ML Pipeline
+# Student-Performance-ML-Model
 
 Implementation of a complete machine learning pipeline using structured tabular data,
 covering data preprocessing, model training, and evaluation.
